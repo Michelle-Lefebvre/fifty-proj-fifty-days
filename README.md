@@ -34,7 +34,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 15. [Incrementing Counter](https://codepen.io/mmlvlt/full/YzVYMJz)
 
-16. [Drink Water]()
+16. [Drink Water](https://codepen.io/mmlvlt/full/ZEKvNgE)
 
 17. [Movie App]()
 
