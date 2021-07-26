@@ -4,45 +4,45 @@ A course by Brad Traversy
 This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).
 
 
-1. Expanding Cards
+1. [Expanding Cards](https://codepen.io/mmlvlt/full/BaRdpvR)
 
-2. Progress Steps
+2. [Progress Steps](https://codepen.io/mmlvlt/full/XWRapQO)
 
-3. Rotating Navigation Animation
+3. [Rotating Navigation Animation](https://codepen.io/mmlvlt/full/YzVxNEK)
 
-4. Hidden Search Widget
+4. [Hidden Search Widget](https://codepen.io/mmlvlt/full/OJmjmLB)
 
-5. Blurry Loading
+5. [Blurry Loading](https://codepen.io/mmlvlt/full/OJmjmPa)
 
-6. Scroll Animation
+6. [Scroll Animation](https://codepen.io/mmlvlt/full/BaRdZjo)
 
-7. Split Landing Page
+7. [Split Landing Page](https://codepen.io/mmlvlt/full/BaRddJr)
 
-8. Form Wave
+8. [Form Wave](https://codepen.io/mmlvlt/full/zYwddWx)
 
-9. Sound Board
+9. [Sound Board]()
 
-10. Dad Jokes
+10. [Dad Jokes](https://codepen.io/mmlvlt/full/eYWEMRM)
 
-11. Event Keycodes
+11. [Event Keycodes](https://codepen.io/mmlvlt/full/vYmJRbN)
 
-12. Faq Collapse
+12. [Faq Collapse](https://codepen.io/mmlvlt/full/NWjaWQv)
 
-13. Random Choice Picker
+13. [Random Choice Picker](https://codepen.io/mmlvlt/full/qBmPZgx)
 
-14. Animated Navigation
+14. [Animated Navigation](https://codepen.io/mmlvlt/full/BaRJbZb)
 
-15. Incrementing Counter
+15. [Incrementing Counter](https://codepen.io/mmlvlt/full/YzVYMJz)
 
-16. Drink Water
+16. [Drink Water]()
 
-17. Movie App
+17. [Movie App]()
 
-18. Background Slider
+18. [Background Slider]()
 
-19. Theme Clock
+19. [Theme Clock]()
 
-20. Button Ripple Effect
+20. [Button Ripple Effect]()
 
 21. Drag N Drop
 
