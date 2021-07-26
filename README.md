@@ -36,7 +36,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 16. [Drink Water](https://codepen.io/mmlvlt/full/ZEKvNgE)
 
-17. [Movie App]()
+17. [Movie App](https://codepen.io/mmlvlt/full/WNjdVmE) Third party api, tmdb service, fetch request, search
 
 18. [Background Slider]()
 
