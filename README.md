@@ -1,8 +1,8 @@
 # 50 Projects in 50 Days
+
 A course by Brad Traversy
 
 This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).
-
 
 1. [Expanding Cards](https://codepen.io/mmlvlt/full/BaRdpvR)
 
@@ -38,29 +38,29 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 17. [Movie App](https://codepen.io/mmlvlt/full/WNjdVmE) Third party api, tmdb service, fetch request, search
 
-18. [Background Slider]()
+18. [Background Slider](https://codepen.io/mmlvlt/pen/gOWvjbv)
 
-19. [Theme Clock]()
+19. [Theme Clock](https://codepen.io/mmlvlt/pen/dyRYPgL)
 
 20. [Button Ripple Effect]()
 
-21. Drag N Drop
+21. [Drag N Drop]()
 
-22. Drawing App
+22. [Drawing App]()
 
-23. Kinetic Loader
+23. [Kinetic Loader]()
 
-24. Content Placeholder
+24. [Content Placeholder]()
 
-25. Sticky Navbar
+25. [Sticky Navbar]()
 
-26. Double Vertical Slider
+26. [Double Vertical Slider]()
 
-27. Toast Notification
+27. [Toast Notification]()
 
-28. Github Profiles
+28. [Github Profiles]()
 
-29. Double Click Heart
+29. [Double Click Heart]()
 
 30. Auto Text Effect
 
