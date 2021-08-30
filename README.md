@@ -48,9 +48,9 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 22. [Drawing App](https://codepen.io/mmlvlt/pen/QWgyMye)
 
-23. [Kinetic Loader]()
+23. [Kinetic Loader](https://codepen.io/mmlvlt/pen/zYzrdmP)
 
-24. [Content Placeholder]()
+24. [Content Placeholder](https://codepen.io/mmlvlt/pen/OJgMOmz)
 
 25. [Sticky Navbar]()
 
