@@ -44,9 +44,9 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 20. [Button Ripple Effect](https://codepen.io/mmlvlt/pen/powgbqM)
 
-21. [Drag N Drop]()
+21. [Drag N Drop](https://codepen.io/mmlvlt/pen/ExXPZRP)
 
-22. [Drawing App]()
+22. [Drawing App](https://codepen.io/mmlvlt/pen/QWgyMye)
 
 23. [Kinetic Loader]()
 
