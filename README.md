@@ -42,7 +42,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 19. [Theme Clock](https://codepen.io/mmlvlt/pen/dyRYPgL)
 
-20. [Button Ripple Effect]()
+20. [Button Ripple Effect](https://codepen.io/mmlvlt/pen/powgbqM)
 
 21. [Drag N Drop]()
 
