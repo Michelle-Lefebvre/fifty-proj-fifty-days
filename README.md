@@ -52,7 +52,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 24. [Content Placeholder](https://codepen.io/mmlvlt/pen/OJgMOmz)
 
-25. [Sticky Navbar]()
+25. [Sticky Navbar](https://codepen.io/mmlvlt/pen/JjJGgYW)
 
 26. [Double Vertical Slider]()
 
