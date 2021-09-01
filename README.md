@@ -38,23 +38,23 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 17. [Movie App](https://codepen.io/mmlvlt/full/WNjdVmE) Third party api, tmdb service, fetch request, search
 
-18. [Background Slider](https://codepen.io/mmlvlt/pen/gOWvjbv)
+18. [Background Slider](https://codepen.io/mmlvlt/full/gOWvjbv)
 
-19. [Theme Clock](https://codepen.io/mmlvlt/pen/dyRYPgL)
+19. [Theme Clock](https://codepen.io/mmlvlt/full/dyRYPgL)
 
-20. [Button Ripple Effect](https://codepen.io/mmlvlt/pen/powgbqM)
+20. [Button Ripple Effect](https://codepen.io/mmlvlt/full/powgbqM)
 
-21. [Drag N Drop](https://codepen.io/mmlvlt/pen/ExXPZRP)
+21. [Drag N Drop](https://codepen.io/mmlvlt/full/ExXPZRP)
 
-22. [Drawing App](https://codepen.io/mmlvlt/pen/QWgyMye)
+22. [Drawing App](https://codepen.io/mmlvlt/full/QWgyMye)
 
-23. [Kinetic Loader](https://codepen.io/mmlvlt/pen/zYzrdmP)
+23. [Kinetic Loader](https://codepen.io/mmlvlt/full/zYzrdmP)
 
-24. [Content Placeholder](https://codepen.io/mmlvlt/pen/OJgMOmz)
+24. [Content Placeholder](https://codepen.io/mmlvlt/full/OJgMOmz)
 
-25. [Sticky Navbar](https://codepen.io/mmlvlt/pen/JjJGgYW)
+25. [Sticky Navbar](https://codepen.io/mmlvlt/full/JjJGgYW)
 
-26. [Double Vertical Slider]()
+26. [Double Vertical Slider](https://codepen.io/mmlvlt/full/powyWKW)
 
 27. [Toast Notification]()
 
