@@ -58,7 +58,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 27. [Toast Notification](https://codepen.io/mmlvlt/full/XWgdVoM)
 
-28. [Github Profiles]()
+28. [Github Profiles](https://codepen.io/mmlvlt/full/XWgdPeK) using axios
 
 29. [Double Click Heart]()
 
