@@ -56,7 +56,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 26. [Double Vertical Slider](https://codepen.io/mmlvlt/full/powyWKW)
 
-27. [Toast Notification]()
+27. [Toast Notification](https://codepen.io/mmlvlt/full/XWgdVoM)
 
 28. [Github Profiles]()
 
