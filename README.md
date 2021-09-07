@@ -60,9 +60,9 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 28. [Github Profiles](https://codepen.io/mmlvlt/full/XWgdPeK) using axios
 
-29. [Double Click Heart]()
+29. [Double Click Heart](https://codepen.io/mmlvlt/full/yLXVwrp)
 
-30. Auto Text Effect
+30. [Auto Text Effect](https://codepen.io/mmlvlt/full/dyRNYbK)
 
 31. Password Generator
 
