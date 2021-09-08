@@ -64,7 +64,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 30. [Auto Text Effect](https://codepen.io/mmlvlt/full/dyRNYbK)
 
-31. Password Generator
+31. [Password Generator](https://codepen.io/mmlvlt/full/dyRNdRW)
 
 32. Good Cheap Fast
 
