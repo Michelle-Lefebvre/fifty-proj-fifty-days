@@ -66,7 +66,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 31. [Password Generator](https://codepen.io/mmlvlt/full/dyRNdRW)
 
-32. Good Cheap Fast
+32. [Good Cheap Fast](https://codepen.io/mmlvlt/full/abwEWvW) UI toggling with logic
 
 33. Notes App
 
