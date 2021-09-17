@@ -68,7 +68,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 32. [Good Cheap Fast](https://codepen.io/mmlvlt/full/abwEWvW) UI toggling with logic
 
-33. Notes App
+33. [Notes App](https://codepen.io/mmlvlt/full/zYzpwWE) using local storage and Marked library
 
 34. Animated Countdown
 
