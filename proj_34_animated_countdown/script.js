@@ -29,8 +29,8 @@ function runAnimation() {
             } else {
                 counter.classList.add('hide');
                 finalMsg.classList.add('show');
-
             }
+
         });
     });
 }

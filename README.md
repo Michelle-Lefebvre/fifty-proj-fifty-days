@@ -70,7 +70,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 33. [Notes App](https://codepen.io/mmlvlt/full/zYzpwWE) using local storage and Marked library
 
-34. [Animated Countdown](https://codepen.io/mmlvlt/full/VwWxaBz) add confetti
+34. [Animated Countdown](https://codepen.io/mmlvlt/full/VwWxaBz)
 
 35. Image Carousel
 
