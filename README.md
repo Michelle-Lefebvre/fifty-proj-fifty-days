@@ -72,9 +72,9 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 34. [Animated Countdown](https://codepen.io/mmlvlt/full/VwWxaBz)
 
-35. Image Carousel
+35. [Image Carousel](https://codepen.io/mmlvlt/full/RwZMZme)
 
-36. Hoverboard
+36. [Hoverboard](https://codepen.io/mmlvlt/full/qBXoPXM) painting colors
 
 37. Pokedex
 
