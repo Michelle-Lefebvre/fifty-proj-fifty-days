@@ -76,7 +76,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 36. [Hoverboard](https://codepen.io/mmlvlt/full/qBXoPXM) painting colors
 
-37. Pokedex
+37. [Pokedex](https://codepen.io/mmlvlt/full/NWvYmpE) using pokeapi.co, fetch api & async await
 
 38. Mobile Tab Navigation
 
