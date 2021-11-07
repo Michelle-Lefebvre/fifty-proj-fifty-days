@@ -78,7 +78,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 37. [Pokedex](https://codepen.io/mmlvlt/full/NWvYmpE) using pokeapi.co, fetch api & async await
 
-38. Mobile Tab Navigation
+38. [Mobile Tab Navigation](https://codepen.io/mmlvlt/full/rNzdgMm)
 
 39. Password Strength Background
 
