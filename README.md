@@ -40,7 +40,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 18. [Background Slider](https://codepen.io/mmlvlt/full/gOWvjbv)
 
-19. [Theme Clock](https://codepen.io/mmlvlt/full/dyRYPgL)
+19. [Theme Clock](https://codepen.io/mmlvlt/full/dyRYPgL) Light and dark modes
 
 20. [Button Ripple Effect](https://codepen.io/mmlvlt/full/powgbqM)
 
@@ -80,7 +80,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 38. [Mobile Tab Navigation](https://codepen.io/mmlvlt/full/rNzdgMm)
 
-39. Password Strength Background
+39. [Password Strength Background](https://codepen.io/mmlvlt/full/gOxeNZR) using css framework Tailwind
 
 40. 3d Background Boxes
 
