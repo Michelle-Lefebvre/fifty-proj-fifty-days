@@ -86,7 +86,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 41. [Verify Account UI](https://codepen.io/mmlvlt/full/YzxLgMw)
 
-42. Live User Filter
+42. [Live User Filter](https://codepen.io/mmlvlt/full/YzxLMrV) using api: randomuser.me async await
 
 43. Feedback UI Design
 
