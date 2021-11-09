@@ -82,7 +82,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 39. [Password Strength Background](https://codepen.io/mmlvlt/full/gOxeNZR) using css framework Tailwind
 
-40. 3d Background Boxes
+40. [3d Background Boxes](https://codepen.io/mmlvlt/full/jOLxJLL) Minions gif
 
 41. Verify Account UI
 
