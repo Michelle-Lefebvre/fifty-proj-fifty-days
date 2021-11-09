@@ -84,7 +84,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 40. [3d Background Boxes](https://codepen.io/mmlvlt/full/jOLxJLL) Minions gif
 
-41. Verify Account UI
+41. [Verify Account UI](https://codepen.io/mmlvlt/full/YzxLgMw)
 
 42. Live User Filter
 
