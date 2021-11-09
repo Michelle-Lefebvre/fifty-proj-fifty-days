@@ -88,7 +88,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 42. [Live User Filter](https://codepen.io/mmlvlt/full/YzxLMrV) using api: randomuser.me async await
 
-43. Feedback UI Design
+43. [Feedback UI Design](https://codepen.io/mmlvlt/full/JjyZKpz) event bubling
 
 44. Custom Range Slider
 
