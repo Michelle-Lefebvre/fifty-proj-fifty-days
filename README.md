@@ -92,7 +92,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 44. [Custom Range Slider](https://codepen.io/mmlvlt/full/wvrwXaq) map range of numbers to another range of numbers
 
-45. Netflix Mobile Navigation
+45. [Netflix Mobile Navigation](https://codepen.io/mmlvlt/full/WNZeyaa) nav transition effect
 
 46. Quiz App
 
