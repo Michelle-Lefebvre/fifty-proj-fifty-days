@@ -90,7 +90,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 43. [Feedback UI Design](https://codepen.io/mmlvlt/full/JjyZKpz) event bubling
 
-44. Custom Range Slider
+44. [Custom Range Slider](https://codepen.io/mmlvlt/full/wvrwXaq) map range of numbers to another range of numbers
 
 45. Netflix Mobile Navigation
 
