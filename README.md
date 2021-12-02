@@ -105,7 +105,7 @@ input[type='radio']:checked:after {
   display: inline-block;
 }
 
-47. Testimonial Box Switcher
+47. [Testimonial Box Switcher](https://codepen.io/mmlvlt/full/ZEXGoRB)
 
 48. Random Image Feed
 
