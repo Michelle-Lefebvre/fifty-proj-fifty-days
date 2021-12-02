@@ -94,7 +94,16 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 45. [Netflix Mobile Navigation](https://codepen.io/mmlvlt/full/WNZeyaa) nav transition effect
 
-46. Quiz App
+46. [Quiz App](https://codepen.io/mmlvlt/full/jOGEjEp) change selected radio style
+
+input[type='radio']:checked:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  background-color: #8e44ad;
+  content: '';
+  display: inline-block;
+}
 
 47. Testimonial Box Switcher
 
