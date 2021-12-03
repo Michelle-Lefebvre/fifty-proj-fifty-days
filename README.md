@@ -109,6 +109,9 @@ input[type='radio']:checked:after {
 
 48. [Random Image Feed](https://codepen.io/mmlvlt/full/xxXGooO)
 
-49. Todo List
+49. [Todo List](https://codepen.io/mmlvlt/full/NWaGWWv) create, update, delete, save
+for local storage(stringify & parse):
+localStorage.setItem('name', JSON.stringify(obj))
+JSON.parse(localStorage.getItem(obj))
 
 50. Insect Catch Game
