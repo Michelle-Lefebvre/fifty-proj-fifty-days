@@ -114,4 +114,4 @@ for local storage(stringify & parse):
 localStorage.setItem('name', JSON.stringify(obj))
 JSON.parse(localStorage.getItem(obj))
 
-50. Insect Catch Game
+50. [Insect Catch Game](https://codepen.io/mmlvlt/full/wvrKzXZ)
