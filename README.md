@@ -107,7 +107,7 @@ input[type='radio']:checked:after {
 
 47. [Testimonial Box Switcher](https://codepen.io/mmlvlt/full/ZEXGoRB)
 
-48. Random Image Feed
+48. [Random Image Feed](https://codepen.io/mmlvlt/full/xxXGooO)
 
 49. Todo List
 
